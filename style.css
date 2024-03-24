@@ -1,8 +1,14 @@
+	
+body {
+      }
 *{
  margin: 0px;
  padding: 0px;
  max-width: 1600px;
  min-width: 300px;
+}
+main{
+    overflow: hidden;
 }
 /* parte do titulo (pintado em preto)*/
 header{
@@ -88,7 +94,7 @@ article{
     background-position: center;
     background-size: cover;
     width: 100%;
-    padding-bottom: 800px;
+    padding-bottom: 700px;
     margin-top: 100px;
 
 }
