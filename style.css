@@ -6,6 +6,7 @@ body {
  padding: 0px;
  max-width: 1600px;
  min-width: 300px;
+ 
 }
 main{
     overflow: hidden;
@@ -18,6 +19,7 @@ position: relative;
  color: white;
  text-align: center;
  height: 250px;
+ 
 
 }
 .titulo > h1{
@@ -43,9 +45,13 @@ section{
  padding-top: 3%;
  font-family: Sriracha, cursive;
  margin-left: 20px;
+ line-height: 2em;
+
+ 
 }
 /*foto da joaninha*/
 .fotojoaninha{
+    padding-top: 40px;
     position: relative;
  color: white;
  font-size: 2em;
@@ -69,6 +75,7 @@ position: absolute;
  margin-top: 150px;
  margin-left: 20px;
  font-family: Sriracha, cursive;
+ line-height: 2em;
 }
 /*paragrafo de baixo da joeninha*/
 .paragrafos{
@@ -79,6 +86,19 @@ position: absolute;
     padding-top: 3%;
     font-family: Sriracha, cursive;
     margin-left: 20px;
+    line-height: 2em;
+    
+
+}
+#paragrafos1{
+    position: relative;
+    margin-bottom: 20px;
+    top: 150px;
+    font-size: 2em;
+    font-family: Sriracha, cursive;
+    line-height: 2em;
+    margin-left: 20px;
+    padding-bottom: 100px;
 
 }
 /*foto do livro*/
@@ -104,6 +124,18 @@ article{
     margin-top: 150px;
     margin-left: 20px;
     font-family: Sriracha, cursive;
+
+}
+/*paragrafo em baixo do livro*/
+#paragrafos2{
+    position: relative;
+    margin-bottom: 20px;
+    top: 150px;
+    font-size: 2em;
+    font-family: Sriracha, cursive;
+    line-height: 2em;
+    margin-left: 20px;
+    padding-bottom: 200px;
 
 }
 /*rodapé*/
