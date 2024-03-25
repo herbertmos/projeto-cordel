@@ -57,6 +57,7 @@ section{
  color: white;
  font-size: 2em;
  font-family: Sriracha, cursive;
+ box-shadow: 6px 6px 10px 1px black;
  
 
 
@@ -112,7 +113,7 @@ position: absolute;
     color: white;
     font-size: 2em;
     font-family: Sriracha, cursive;
-    
+    box-shadow: 6px 6px 10px 1px black;
 
 }
 article{
