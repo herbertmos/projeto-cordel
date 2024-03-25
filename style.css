@@ -4,12 +4,13 @@ body {
 *{
  margin: 0px;
  padding: 0px;
- max-width: 1900px;
- min-width: 300px;
+ 
  
 }
 main{
     overflow: hidden;
+    max-width: 1900px;
+    min-width: 300px;
 }
 /* parte do titulo (pintado em preto)*/
 header{
